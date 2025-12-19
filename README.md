@@ -1,1 +1,1 @@
-![Photography Page Screenshot](images/home.png)
+![Photography Page Screenshot](image/home.png)
